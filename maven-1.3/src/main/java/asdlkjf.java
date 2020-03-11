@@ -10,6 +10,8 @@ public class asdlkjf {
     public static String ear5(){
         System.out.println("skjflakj");
         Date date = new Date();
+
+        System.out.println("我是夏宇");
         return "kjfsklj";
     }
     public static String ear4(){
