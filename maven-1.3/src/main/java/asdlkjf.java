@@ -13,6 +13,8 @@ public class asdlkjf {
         return "kjfsklj";
     }
     public static String ear4(){
+
+        System.out.println("skjfakl");
         ear2();
         System.out.println("skjflakj");
         Date date = new Date();
