@@ -1,6 +1,12 @@
 import java.util.Date;
 
 public class asdlkjf {
+    public static String SFASF(){
+        ear1();
+        System.out.println("skjflakj");
+        Date date = new Date();
+        return "kjfsklj";
+    }
     public static String ear(){
         ear1();
         System.out.println("skjflakj");
@@ -38,6 +44,7 @@ public class asdlkjf {
         Date date = new Date();
         return "kjfsklj";
     }
+
 
 
     public static void main(String[] args) {
